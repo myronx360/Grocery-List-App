@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="add_item">Add Item</string>
+    <string name="save_list">Save List</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="coupon_discount">Coupon/Discount</string>
+    <string name="total">Total</string>
+    <string name="default_total">$ 0.00</string>
+</resources>
